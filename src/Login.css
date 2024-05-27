@@ -1,0 +1,21 @@
+/* this is styling for the page */
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+  }
+/* this is styling for the image of the logo*/ 
+.login > img {
+ width: auto;
+height: 200px;
+}
+/* this is styling for the link/button */
+.login > a {
+padding: 20px;
+border-radius: 99px;
+font-weight: 600;
+color: white;
+text-decoration: none;
+background-color: #1db954;
+}
